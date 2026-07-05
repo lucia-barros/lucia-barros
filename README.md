@@ -23,9 +23,8 @@ My work combines engineering, programming and biomedical applications, with proj
 ## Projects I'm working on
 
 - **Vascular flow simulation** — numerical modelling applied to biomedical fluid dynamics.
-- **Wildfire risk prediction in Ourense** — geospatial and environmental data analysis using Python.
 - **Apnea detection from respiratory signals** — biomedical signal processing in MATLAB.
-- **Insulin infusion controller** — embedded C project using PIC18 microcontrollers.
+- **PIC18 blood pressure monitor** — embedded C firmware for a biomedical instrumentation system.
 - **Clinical biostatistics in R** — ROC analysis, logistic regression and medical statistics.
 
 ## Tools and languages
